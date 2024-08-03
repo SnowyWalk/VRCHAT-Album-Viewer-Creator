@@ -7,15 +7,15 @@
 위 링크를 눌러 가장 최신 게시글의 exe파일을 받아주세요. <br/> Please click the link above to download the exe file from the latest post.
 
 ## 시연 영상 / Overview
-
 https://github.com/user-attachments/assets/2cfad966-8205-410d-9bb8-d2ad9446ece9
+
+[유튜브 링크 / Youtube Link](https://youtu.be/z9GPF6mqqH0)
 
 <br/>
 <br/>
 <br/>
 
 ## 사용방법 / How to use
-
 ![how_to_use](https://github.com/user-attachments/assets/4ddcc900-9684-4da9-85a5-207f29941005)
 
 '내 문서/사진/VRChat' 경로에 있는 폴더를 생성기에 드래그하여 앨범 뷰어 페이지를 생성할 수 있습니다. <br/> You can create an album viewer page by dragging a folder from the 'My Documents/Pictures/VRChat' directory into the creator.

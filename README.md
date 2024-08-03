@@ -8,7 +8,6 @@ This is an album management utility program for VRCHAT users. <br/>
 
 <br/>
 <br/>
-<br/>
 
 ## 다운로드 / Download
 
@@ -16,7 +15,6 @@ This is an album management utility program for VRCHAT users. <br/>
 
 위 링크를 눌러 가장 최신 게시글의 exe파일을 받아주세요. <br/> Please click the link above to download the exe file from the latest post.
 
-<br/>
 <br/>
 <br/>
 
@@ -27,14 +25,12 @@ https://github.com/user-attachments/assets/2cfad966-8205-410d-9bb8-d2ad9446ece9
 
 <br/>
 <br/>
-<br/>
 
 ## 사용방법 / How to use
 ![how_to_use](https://github.com/user-attachments/assets/4ddcc900-9684-4da9-85a5-207f29941005)
 
 '내 문서/사진/VRChat' 경로에 있는 폴더를 생성기에 드래그하여 앨범 뷰어 페이지를 생성할 수 있습니다. <br/> You can create an album viewer page by dragging a folder from the 'My Documents/Pictures/VRChat' directory into the creator.
 
-<br/>
 <br/>
 
 ---
@@ -54,17 +50,14 @@ https://github.com/user-attachments/assets/2cfad966-8205-410d-9bb8-d2ad9446ece9
 
 <br/>
 <br/>
-<br/>
 
 ## 스크린샷 / Screenshots
 ![3](https://github.com/user-attachments/assets/bc14159f-b87e-4912-bd8e-c8deac33ee99)
 
 <br/>
-<br/>
 
 ![4](https://github.com/user-attachments/assets/8c814323-b7d4-4e63-9293-69e1e27f65be)
 
-<br/>
 <br/>
 <br/>
 
